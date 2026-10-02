@@ -1,0 +1,7 @@
+process,lot,machine,workshop
+deposition,0,3,1
+etching,0,2,0
+implantation,0,2,2
+lithography,1,2,1
+metalization,0,3,0
+planarization,1,3,0
