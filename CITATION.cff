@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or the simulated fab benchmark, please cite the paper below."
+title: "TSFGA: two-stage feature selection for lot cycle-time prediction in semiconductor wafer fabrication"
+authors:
+  - family-names: Song
+    given-names: Seunghwan
+  - family-names: Lee
+    given-names: Byung Kwon
+    email: leebk@ut.ac.kr
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+repository-code: https://github.com/<user>/tsfga-ctfs
+preferred-citation:
+  type: article
+  title: "Two-stage feature selection for lot cycle-time prediction in semiconductor wafer fabrication: a real-fab case study with simulation-based validation"
+  authors:
+    - family-names: Song
+      given-names: Seunghwan
+    - family-names: Lee
+      given-names: Byung Kwon
+  journal: "Advanced Engineering Informatics"
+  year: 2026
+  notes: "submitted"
